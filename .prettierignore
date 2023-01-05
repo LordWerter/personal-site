@@ -1,0 +1,10 @@
+/build
+/coverage
+/node_modules
+
+# ROOT FILES
+LICENSE
+#_CHANGELOG.md
+#_TODO.md
+
+*.lock
